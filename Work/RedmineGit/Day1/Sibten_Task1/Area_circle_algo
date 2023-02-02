@@ -1,0 +1,6 @@
+1. Start 
+2. #define pi 3.14 
+3. Input the radius 
+4. calculate the area of circle 
+    area = pi * radius * radius 
+5. end 

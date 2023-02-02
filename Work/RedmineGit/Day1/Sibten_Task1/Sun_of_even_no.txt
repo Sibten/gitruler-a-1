@@ -1,0 +1,8 @@
+1. Start 
+2. Prompt the range of integer from user 
+3. sum = 0
+   loop lower to upper 
+    if i % 2 == 0
+        sum = sum + i
+4. print the sum 
+5. End 

@@ -1,0 +1,8 @@
+1. Start 
+2. Take input unitll user want 
+3. Store each value in particular variable
+4. Add this prompted variable into the temp 
+    temp = temp + inputed_val;
+5. Show the ans
+6. End
+
